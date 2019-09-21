@@ -1,0 +1,18 @@
+CupCarbon v. U-One 3.8.2
+----------------
+name:WN
+zoom:3
+centerposition_la:18.914020625664758
+centerposition_lo:73.32524299621582
+map:0
+display_details:true
+draw_radio_links:true
+draw_sensor_arrows:true
+radio_links_color:0
+draw_marker_arrows:false
+display_rl_distance:false
+propagation:false
+display_marker_distance:false
+display_radio_messages:true
+draw_script_file_name:true
+display_print_messages:true

@@ -1,0 +1,17 @@
+apk
+
+//Transmitter
+send Jay Kate
+stop
+//delay 1000
+
+
+
+dmd
+
+//Receiver
+loop
+wait
+read v
+mark $v
+println $v
